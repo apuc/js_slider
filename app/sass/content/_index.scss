@@ -1,0 +1,26 @@
+.wrap {
+  width: 200px;
+  height: 300px;
+  background-color: RED;
+  float: left;
+}
+.wrap2 {
+  width: 200px;
+  height: 300px;
+  background-color: RED;
+  float: left;
+}
+
+.sliderWrap {
+  width: 50%;
+  height: 300px;
+  background-color: #5e5e5e;
+  .nav {
+    text-align: center;
+  }
+}
+
+.sliderItem {
+  width: 100%;
+  height: 100%;
+}
